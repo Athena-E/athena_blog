@@ -1,0 +1,4 @@
+baseURL = 'https://electronic-quill.com/'
+languageCode = 'en-gb'
+title = 'Electronic Quill'
+theme = 'hugo-theme-stack'
