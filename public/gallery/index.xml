@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Galleries on Electronic Quill</title>
+        <link>http://localhost:1313/gallery/</link>
+        <description>Recent content in Galleries on Electronic Quill</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
+        <lastBuildDate>Fri, 03 Jan 2025 01:34:42 +0000</lastBuildDate><atom:link href="http://localhost:1313/gallery/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Gallery</title>
+        <link>http://localhost:1313/gallery/my-first-gallery/</link>
+        <pubDate>Fri, 03 Jan 2025 01:34:42 +0000</pubDate>
+        
+        <guid>http://localhost:1313/gallery/my-first-gallery/</guid>
+        <description>&lt;p&gt;testing&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

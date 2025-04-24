@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Electronic Quill</title>
-        <link>http://localhost:1313/</link>
-        <description>Recent content on Electronic Quill</description>
+        <title>Pages on Electronic Quill</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on Electronic Quill</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-gb</language>
-        <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
         <link>http://localhost:1313/page/about/</link>
         <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
@@ -15,26 +15,6 @@
         <description>&lt;p&gt;Hi, I&amp;rsquo;m Athena, a second year Computer Science student at the University of Cambridge. I&amp;rsquo;m interested in the development of AI/machine learning and would consider it one of my main gateways into Coomputer Science in the first place. Since coming to university, I&amp;rsquo;ve tried getting involved with AI societies and learning about AI safety as well as doing personal research into areas that interest me. Recently, I&amp;rsquo;ve had a growing interest in programming languages and want to be able to purposefully dedicate some time to an area that I don&amp;rsquo;t yet have much experience in; I intend for this blog to be like a log of my journey and also a platform for me to share the interesting things I discover along the way.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
-        </item>
-        <item>
-        <title>My First Post</title>
-        <link>http://localhost:1313/post/my-first-post/</link>
-        <pubDate>Fri, 03 Jan 2025 01:34:42 +0000</pubDate>
-        
-        <guid>http://localhost:1313/post/my-first-post/</guid>
-        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
-&lt;/h2&gt;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Test</title>
-        <link>http://localhost:1313/categories/test/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/categories/test/</guid>
-        <description></description>
         </item>
         
     </channel>
